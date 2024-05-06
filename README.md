@@ -17,5 +17,11 @@ feito depois, quem preferir pode focar primeiro no código e funcionamento.
 ### PDF da atividade
 A descrição completa da atvidade proposta pelo orientador se encontra em [implementacao_de_um_truco_com_POO](https://github.com/sophiamaria05/truco_em_java/blob/main/implementacao_de_um_truco_com_POO.pdf)
 
+## Diagrama de classes
+Usado para facilitar a visualização das Classes com seus atributos e métodos.
+### UML da atividade
+![UML](https://raw.githubusercontent.com/sophiamaria05/truco_em_java/main/UML.png?token=GHSAT0AAAAAACREHCCJ55UHMHELXB5MUDPSZRY6GIA)
+Este diagrama pode ser encontrado no repositório como [UML.png](https://github.com/sophiamaria05/truco_em_java/blob/main/UML.png)
+
 ## Linguagem utilizada
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

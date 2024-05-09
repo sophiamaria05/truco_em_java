@@ -20,7 +20,8 @@ A descrição completa da atvidade proposta pelo orientador se encontra em [impl
 ## Diagrama de classes
 Usado para facilitar a visualização das Classes com seus atributos e métodos.
 ### UML da atividade
-<img src="/UML.png">
+![UML.png](https://github.com/sophiamaria05/truco_em_java/blob/main/UML.png)
+
 Este diagrama pode ser encontrado no repositório como [UML.png](https://github.com/sophiamaria05/truco_em_java/blob/main/UML.png)
 
 ## Linguagem utilizada

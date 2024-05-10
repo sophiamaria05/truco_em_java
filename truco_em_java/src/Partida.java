@@ -23,7 +23,7 @@ public class Partida {
         jogadores.get(1).nome = "Computador";
 	}
 	
-	void inicioPartida() {
+	int inicioPartida() {
 		pontosRodada.add(0);
 		pontosRodada.add(0);
 		Baralho baralho = new Baralho();
@@ -41,7 +41,15 @@ public class Partida {
 		}
 		else {
 			System.out.println("Computador venceu a partida!");
+			System.out.println("Placar final:\nComputador 12 x "+ jogadores.get(0).pontos +""+ jogadores.get(1).nome);
 		}
+		System.out.println("[0] Sair\n[1]Jogar novamente");
+		int jogar = input.nextInt();
+		while (jogar!=1 && jogar!=0) {
+			System.out.println("Entrada invalida! Tente novamente..");
+			System.out.println("[0] Sair\n[1]Jogar novamente");
+		}
+		return jogar;
 	}
 	
 	void turno(Baralho baralho) {
